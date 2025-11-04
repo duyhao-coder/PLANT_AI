@@ -63,7 +63,8 @@ Tổng cộng khoảng **1300 ảnh train/val**.
 
 Toàn bộ dataset được lưu trữ trên Hugging Face.
 Truy cập tại: [https://huggingface.co/datasets/dataset](https://huggingface.co/datasets/Duyhao/Diseased_leaves)
-
+- Dataset và mô hình này được chia sẻ cho mục đích nghiên cứu và học tập.
+- Khi sử dụng dataset hoặc mô hình best_unetpp_effb1.pth trong nghiên cứu, báo cáo hoặc sản phẩm của bạn, vui lòng ghi rõ nguồn
 ## 8. Mô hình huấn luyện
 
 File mô hình: best_unetpp_effb1.pth (≈ 35 MB)
