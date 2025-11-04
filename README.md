@@ -62,7 +62,7 @@ Tổng cộng khoảng **1300 ảnh train/val**.
 ## 7. Dữ liệu
 
 Toàn bộ dataset được lưu trữ trên Hugging Face.
-Truy cập tại: https://huggingface.co/datasets/your-dataset-link
+Truy cập tại: [https://huggingface.co/datasets/your-dataset-link](https://huggingface.co/datasets/Duyhao/Diseased_leaves)
 
 ## 8. Mô hình huấn luyện
 
