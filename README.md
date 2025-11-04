@@ -58,6 +58,7 @@ Tổng cộng khoảng **1300 ảnh train/val**.
 ### Cài đặt môi trường
 - pip install -r requirements.txt
 - streamlit run app.py
+![OUT_PUT](output.png)
 ## 7. Dữ liệu
 
 Toàn bộ dataset được lưu trữ trên Hugging Face.
