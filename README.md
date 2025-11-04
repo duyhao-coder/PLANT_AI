@@ -56,39 +56,24 @@ Tổng cộng khoảng **1300 ảnh train/val**.
 ## 6. Chạy ứng dụng Streamlit
 
 ### Cài đặt môi trường
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-Ứng dụng cho phép tải ảnh lá cây, sau đó:
-
-Phân đoạn vùng bệnh.
-
-Nhận dạng loại bệnh.
-
-Hiển thị 3 hình:
-
-Ảnh gốc
-
-Mask dự đoán
-
-Overlay với đường viền vùng bệnh.
-
-7. Dữ liệu
+- pip install -r requirements.txt
+- streamlit run app.py
+## 7. Dữ liệu
 
 Toàn bộ dataset được lưu trữ trên Hugging Face.
 Truy cập tại: https://huggingface.co/datasets/your-dataset-link
 
-8. Mô hình huấn luyện
+## 8. Mô hình huấn luyện
 
 File mô hình: best_unetpp_effb1.pth (≈ 35 MB)
 Sử dụng để inference trực tiếp trong ứng dụng Streamlit.
 
-9. Tác giả
+## 9. Tác giả
 
-Duy Hào
+Duy Hao
 Plant AI Project — 2025
 GitHub: https://github.com/duyhao-coder
 
 10. Giấy phép
 
-MIT License © 2025 Duy Hào
+MIT License © 2025 Duy Hao
