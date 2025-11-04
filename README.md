@@ -74,6 +74,6 @@ Duy Hao
 Plant AI Project — 2025
 GitHub: https://github.com/duyhao-coder
 
-10. Giấy phép
+## 10. Giấy phép
 
 MIT License © 2025 Duy Hao
