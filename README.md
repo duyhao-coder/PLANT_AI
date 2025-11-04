@@ -73,9 +73,9 @@ Sử dụng để inference trực tiếp trong ứng dụng Streamlit.
 ## 9. Tác giả
 
 Duy Hao
-Plant AI Project — 2025
-GitHub: https://github.com/duyhao-coder
-VIDEO MÔ PHỎNG: [LINK](https://drive.google.com/file/d/1pK_lyeggKQwvhxyC2TOmR32YWuugMkIS/view?usp=sharing)
+- Plant AI Project — 2025
+- GitHub: https://github.com/duyhao-coder
+- VIDEO MÔ PHỎNG: [LINK](https://drive.google.com/file/d/1pK_lyeggKQwvhxyC2TOmR32YWuugMkIS/view?usp=sharing)
 ## 10. Giấy phép
 
 MIT License © 2025 Duy Hao
